@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "dd72a3532f6847d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e79a172051ec8d6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9032a6c25bf4e952",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command Central.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ed1e7ffb7369a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d2577864a874014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7578522164f78bb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f167067817afaf2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#PrototypeDesignPattern",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "feb19cdc4cbe1a35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6eb8e8e4d19d8f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed1a6cf0ee464fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "962aa2a07d4b5079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Command Central.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd8321ed7cca1ab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Command Central.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1a36f43db6f121c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d7233582638973c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Command Central.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "9032a6c25bf4e952",
+  "lastOpenFiles": [
+    "Kodetime med marie 30-05-2024.md",
+    "Code Classes.md",
+    "Kodetime med terje 30-05-2024.md",
+    "Command Central.md",
+    "cSharp/Codetime/Kodetime med terje 28-05-2024.md",
+    "WOULD Framework.md",
+    "cSharp/Codetime/Kodetime Med terje 23-05-2024.md",
+    "cSharp/Codetime/Kodetime med terje 21-05-2024.md",
+    "cSharp/Codetime/Kodetime med terje 16-05-2024.md",
+    "Find out how it works.md",
+    "cSharp/Principles/OOP.md",
+    "cSharp/Design Patterns cSHARP/Design Patterns for cSHARP.md",
+    "cSharp/Img cSharp/Pasted image 20240518010626.png",
+    "cSharp/Img cSharp/Pasted image 20240518010204.png",
+    "cSharp/Img cSharp/Pasted image 20240518004630.png",
+    "cSharp/Img cSharp/Pasted image 20240518004719.png",
+    "Pasted image 20240518005630.png",
+    "cSharp/Img cSharp/Pasted image 20240518003815.png",
+    "cSharp/Design Patterns cSHARP/Singleton Design.md",
+    "cSharp/Principles",
+    "cSharp/Img cSharp/Pasted image 20240517235855.png",
+    "cSharp/Img cSharp/Pasted image 20240517235800.png",
+    "cSharp/Img cSharp/Pasted image 20240517235246.png",
+    "cSharp/Img cSharp/Pasted image 20240517234731.png",
+    "cSharp/Design Patterns cSHARP/Builder Design.md",
+    "cSharp/Design Patterns cSHARP/Prototype Design.md",
+    "cSharp/cSHARP concepts/Abstract class.md",
+    "cSharp/Design Patterns cSHARP/Factory method design.md",
+    "cSharp/Design Patterns cSHARP/Abstract factory design.md",
+    "cSharp/Design Patterns cSHARP/Simple factory design.md",
+    "cSharp/Principles/L - Liskov Substitution Principle.md",
+    "cSharp/Principles/SOLID Principles.md",
+    "cSharp/cSHARP concepts/Virtual Keyword.md",
+    "cSharp/cSHARP concepts/Base keyword.md",
+    "cSharp/cSHARP concepts/Override Keyword.md",
+    "cSharp/Principles/D - Dependency Inversion Principle.md",
+    "cSharp/Principles/S - Single Responsibility Principle.md",
+    "cSharp/cSHARP concepts",
+    "cSharp/Design Patterns cSHARP",
+    "cSharp/cSHARP Refactored code",
+    "cSharp/Img cSharp",
+    "cSharp/Codetime",
+    "Self-improvment",
+    "Untitled.canvas",
+    "JavaScript",
+    "Code Log",
+    "cSharp"
+  ]
+}
