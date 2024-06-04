@@ -51,4 +51,6 @@
 
 
 ## [[Kodetime med marie 30-05-2024]]
+- more how to set up classes in OOP
 
+## [[Kodetime med terje 04-06-2024]]

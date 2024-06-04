@@ -20,6 +20,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2776c032be97093a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Find out how it works.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -150,16 +162,17 @@
   },
   "active": "9032a6c25bf4e952",
   "lastOpenFiles": [
-    "Kodetime med marie 30-05-2024.md",
     "Code Classes.md",
-    "Kodetime med terje 30-05-2024.md",
     "Command Central.md",
+    "Find out how it works.md",
+    "Kodetime med terje 30-05-2024.md",
+    "Kodetime med terje 04-06-2024.md",
+    "cSharp/Codetime/Kodetime med marie 30-05-2024.md",
     "cSharp/Codetime/Kodetime med terje 28-05-2024.md",
     "WOULD Framework.md",
     "cSharp/Codetime/Kodetime Med terje 23-05-2024.md",
     "cSharp/Codetime/Kodetime med terje 21-05-2024.md",
     "cSharp/Codetime/Kodetime med terje 16-05-2024.md",
-    "Find out how it works.md",
     "cSharp/Principles/OOP.md",
     "cSharp/Design Patterns cSHARP/Design Patterns for cSHARP.md",
     "cSharp/Img cSharp/Pasted image 20240518010626.png",
@@ -186,7 +199,6 @@
     "cSharp/cSHARP concepts/Base keyword.md",
     "cSharp/cSHARP concepts/Override Keyword.md",
     "cSharp/Principles/D - Dependency Inversion Principle.md",
-    "cSharp/Principles/S - Single Responsibility Principle.md",
     "cSharp/cSHARP concepts",
     "cSharp/Design Patterns cSHARP",
     "cSharp/cSHARP Refactored code",
